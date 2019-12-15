@@ -13,8 +13,6 @@ const Form = ({ handleAddItem, handleFilterItem }) => {
   const options = [ 
     'All', 'Done', 'Undone'
   ];
-
-  var defaultOption = options[0];
   
   const handleSubmitAndResetForm = ev => {
     ev.preventDefault();
