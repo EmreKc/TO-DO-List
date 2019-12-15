@@ -1,7 +1,7 @@
 {
-  "name": "just-another-todo-app",
-  "description": "A todo app built with React + Redux.",
-  "version": "2.0.3",
+  "name": "TODO-List",
+  "description": "todo app",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
