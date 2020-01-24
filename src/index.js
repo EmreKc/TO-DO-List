@@ -21,5 +21,4 @@ ReactDOM.render(
     <AppContainer />
   </Provider>,
   document.getElementById('app'),
-);
-   
+); 
